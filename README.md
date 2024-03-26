@@ -6,10 +6,6 @@ IT-разработчик
 
 Я начинающий IT-разработчик. Мой путь в it начался со Школы, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила Web разработка!
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
 - :zap: Являюсь студентом на курсе Веб-разработки Stepik.
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-KyrasaV4ik74-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:belskijsasa87@gmail.com)
